@@ -27,7 +27,7 @@ npm run start-dev
 
 NanoId using ver ```3.x.x``` (Can't use new version because not supported ES Module).
 
-### Lib. Version
+### Lib. Version (Updating library for the newest)
 ```json
     "@hapi/hapi": "^21.3.2",
     "nodemon": "^3.0.1",
